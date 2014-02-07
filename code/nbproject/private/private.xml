@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/GnutellaClient.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/GnutellaServer.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/GretellaView.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/HTTPDownload.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/HTTPProtocol.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/HTTPUpload.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/util/FileDB.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/util/PingMessage.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/util/QueryHitMessage.java</file>
+        <file>file:/C:/homework/Gnutella/Gretella/src/gretella/util/ResultSet.java</file>
+    </open-files>
+</project-private>
